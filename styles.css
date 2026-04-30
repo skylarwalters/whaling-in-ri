@@ -1,4 +1,10 @@
 
+.playfair-display {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
 
 body {
   margin: 0;
@@ -14,8 +20,10 @@ p {
   line-height: 1.7;
 }
 h3 {
-  font-size: 18pt;
+  font-size: 24pt;
   line-height: 1.7;
+  font-family: 'Playfair Display', serif;
+
 }
 a {
   color: #32486b;
